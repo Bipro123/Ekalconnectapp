@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\8ee04aa403b37aedd3d7215ae90c533b7e75a379\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d996743d41b9a497951d78ea8270ff8071321ce2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\721071f403431bbc1ed0701439f94ecda7e00141\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcca84c7af2c7070e5df2a344afb402076e55517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\755fa073bc5396f361c0611e5139ff4903271bc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5fe9f770ed6324711b5208315a596ed3819a6de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\16ef3edd40b65490820810bb6e37be113198b977\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2443c7c06572cf1eb64c882f8114bda450364f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\c06066eba76ce3e0bbdbc6ee28ce3e9b0fff1902\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad7386ca2961b2946a22c36c5d3bed7d2270a98e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\996226170a406dddcb6a9cabc38c9057e235da9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a12ca2e059fceda8af9788c96aa51a0f8ceb3d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_cfa7f97ac2538851c396c80350fd41233e4beab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\bbb950a97891a5590439495a320b70462f898575\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf4f358738507eef62f6b1e84d00ce8282a71e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\db2e7a11c7ade3929c4fe9f5894a054b3fb4ddcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d17aaf1c5e9cd485db18253e03e5f8b60e0bc32f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_95a84a6d31df55aad1d11eba96bbdd690d4d12ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\0c30fdffaadc545eaa3abea2d33a3182042fda3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15d41ee8642a7996dbac608982682c4848384f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_fc6571745a74408422a87271dfbff71acf7e02dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\326e584a4471cc5f534704eef59c65b79f250666\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d5255644890f819bd2c00648c7bde700b4c0594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\c34953b5b3d8859483d88c7f52461214fabc3090\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae80e046677207e5b6e0158f5c44c501d3a3c64c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\cf1523dbe89d102a8d8f37a37011535f7ac1907e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6203feebac730bdce6ab62d5a26e478213ca53f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\d36110d5accbdadfe7639fd284fcf4de29fd8c8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6515c35c157d9781b68a2b0b98e40eab8b2637ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\a2add08f10f0b25dda5ee19aa1681d60253d13b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f54d1f24ab1cd973507755b67abdbc0384026b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\50aa314396170bbecedad2408787a6a05e9377ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cba4bc9b6834c14067070036a6734492008ffbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\44093264b9c73c96e2a2258eaecddd6844dcbf21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90f89e3ca0b763326acb06dddfdcd74656e32d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\bfe4b6dfa4e4c3e37a738abb28fc7ead01208ca4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf30be6fbaa8ef857d6804b59c20a88973489614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\c502d01bba9eb4f3fb89b25deaf6d973f14d9a81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5089e8b34c3bbc6d61734e1f8f372a5cb85e2bc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_ff3b2824d62f4489b00d5d2f3330e5086d6235bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\c6f356cc79d77186172f212aacea64e67d4f9d9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d17522e74d33d200361b14eb83b795f3eeac7dce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\1407f87d2b8ba183b8dface2b15aad140d39055f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2012e7f3762fe3cd319a64b8494ecdbc55a16ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\5908c76bd62d7be0a608bd2c0c4e4d105894fe43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_828796ad7c4c82950c481cce442cd18cbdc95bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\448731593102c410e3738ca8c3e43b85dcf3e95c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_548b12f01300f9c2ac74921aad6727fadb9e9cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\f4619a3a08f0330c52f4531200cb8098cb31f5a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_540068740e225ef0135d2f91cedd8d8505380f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\9564a2e1a1207f3cabe3565e80d12c1ef0d4ff6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5f67761ca954c26ee9af804b579736e5815de8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\a0408429ebb31c37fb222630d25eb4d6b397abc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1741457aa497478cdaaaf05a74d8da7ebc42e38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\7bbbd33984a3054af6da7e74facb83fbeb7179f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cc6fe6f85da0fb79a040fbfe091957b47e0b554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\f3a6f78e6747281509765a882fcf35b4fd019511\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02e9704894e017c5bdc0293543d2a43f5f048963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\7c726d92371adb667152109eed131d8d8373f49a\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_18ce743905243b54c2d53752b0a8f2006c8597ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\ba45b688c8fe2819f0363ac6aacb132e45489c55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46e4b17226badd400d1beef0176060c8b8c4543b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\10214d3d24b53650f5b1abcd722d14cc08c53c07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cd58847cdc6eee6f1f3998d2dfc14f3c204e917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.3_d9bc2a5cda61c5e75fe099675b0ce351b063c0f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\7ebe95219c0356ec32c43f5decc84c56df964773\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0f861cb06092180fea1f452d4fedc88f89e76f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\8b9e555894ad5666d53fd74d5e0f60884fc4b16c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9455155e6c2d8180e37dd23f69aa778d89f372a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\1adfb756e297ee612b6ccac6f073e6faf699f689\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dd7ffdfad66d8030bd8058783341e51aa854f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\38b2264c46e79b024ab42eb301dd3ae35c096faa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_beaaf56ad9da0e1496025a2cad67cc3655146dbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_bc49dc0a25a1d8a89ee153864fda0286531aa868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\7c726d92371adb667152109eed131d8d8373f49a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f1edda0584e246c4155d24e784d4256c343a7fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\3dcef375d7a8ed8735d7c391e4ec126758350fcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9069bfeb2b9c3505879d9e07d5c51359abd01202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\acra-4.5.0rc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="40b9f771e07ea6f6126c4dfd81c5296721c4143a">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.5.0rc_70a346b4e757a1c6d028dd2cbddd08c9d2e4f732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\f8737d7c72cee56364834163585ea9bde9df1ae7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09b912114b41abce2d7f0ee16c65df4c8eb5cb9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\7d121c608801df9a4c622690a460128c4cdaa755\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d83816cfd2c43871c4536edfb3d0bd99fdd0b1c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\406a9118855009fe14ea4cb26a430fbb1e6cb537\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdc64bcd010e6f34cacd030e9c725b360f5e45d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\a0408429ebb31c37fb222630d25eb4d6b397abc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1741457aa497478cdaaaf05a74d8da7ebc42e38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_ef96b7bf62290f1c5f38d87992708619541f805e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\99df1b41acef51e875dcb3b312fb78c34cb3a2fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a91419699ab21760be13a8b85dec0100be3180b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\c024f3580225e52869de7bc8485c8efba6660bbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e5abfd0fb89ec6bfa80cbd672e38241b0cf98aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.3_d9bc2a5cda61c5e75fe099675b0ce351b063c0f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_eb8e0beb51aa16719b0c8ba937f1b22834fb5716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\46c1c2d903f1710daec8c647f2eaf1a03456e068\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d46bf69a30351130415ea9d2c847a1fdd636497a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\6b2d897f7ea7f3032063a294f0869c95238d47fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23f59181c64972272dbd1571cf42c6f374d1e493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\c5fe2de890bbd0c9e985540fd6a9ff3438dad0fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff9094c63bcc52ddaa7e3f8ec918b450cb226778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\b89312516610a15fd3084f4431fbfabd1169c685\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="c88bd2d95ec2fe819a00506817fb43251d68cdb7">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7de7a8ac3f718ea8c48b657de3dc3320ab62a64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\a943a06634cc9760294e5b7f881d59335cd3f7d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0eadd773655ca3896bc4f262d2fb7d0c9060b5c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.1.1\5cd91fd014f5b72292f959748c20a2cefefae77d\eventbus-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="5cd91fd014f5b72292f959748c20a2cefefae77d">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.1.1_256f6054b584db715d4a3f71c4d73f5d5be2005f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\75128bb7619dc30240d5ef4f42e942a2e46e204f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c2481540bf9c294b728c57038ed60cd0dd15221\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\1e5016f465ad40fbca23a089e807d7bd3d30458a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34511e813eb0f9e9f732aabdf7f1909ea7b6a530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\04f5374ec55308a9cebe3c0c12cf2642ee6c4372\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4a31f2f777d1240ebbb70a57842fa327eaed3af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\4971484eb00da68df9446d2fad8c2479b6c7d430\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df87bbaefc06f2f56747a0a5158b0e57ec1bf004\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\f3b844d8f712aea633ebb4086390d0e3a445ef4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b1622fc51c1c7895d34566c8157469d5e1169df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\acra-4.5.0rc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="40b9f771e07ea6f6126c4dfd81c5296721c4143a">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.5.0rc_70a346b4e757a1c6d028dd2cbddd08c9d2e4f732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\83dc6cb5066e9a11a07ecac44265f2f6e795dba0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6109494cc4b548c40749398746ff0aab8fb9c22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\6ed3047e8aeb06666087b28e85041b829fb410f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14ef226c9e69187569ae47cbc7080d4117f3d0e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_bc49dc0a25a1d8a89ee153864fda0286531aa868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\5198914fbd8855738f2c4854cb910f995bfd69db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a8e704d1cd1ea9e9ef1bca5caf9c735b8b35ad5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\be2ca56a76f7e42a8ee8f0c9cc0de341bda8e37f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9e54275f5a984a1a46f6b126dc049baef42c668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_cfa7f97ac2538851c396c80350fd41233e4beab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\9d8d5a1c5e49d0fc70313d3234e2f07c45bd4824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fb22d98d0d80fd96d663111b0528a4280f03aad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\9714d184933626b98c113881e29d295c97be50b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9efaf9f6c6d500df70bdb3057463217bbfa884d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\4d92cd6af85fcbfbe6dd15df2caa8d08b470922c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e79a477a7f257c0e59bcb4e99246509a8494512f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\9ad012ff6dc326b5810355ca5c38751730f7f473\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_738a76fd2a26238bea78c2e71c17972eaa07726f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\97f8f6d537becc443cc4be69eda613d0126cd645\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4116114393ecbf34ef20ca3c6be84de11855de28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\ebfd19a34bd9dc0524f54bc2c0da69dc3717a026\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a52ca0743f47dadd8147ef98b41e310172e09408\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_eb8e0beb51aa16719b0c8ba937f1b22834fb5716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\93dd92426eefc354a9e0131068e94be148766add\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f721cc9f688f31aed9eae63262f0a8c1b9b9cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\4f26d709edb0258724f11f804e5c3e5df4fe53c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06a98cdacb0affeda71745965ae90da3f992821b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\a548a963c7b0db40b533acb6fe89d2e3b1eb951b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4a716e37c59a9212430bc5a27ad8bd83f8c9197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\457bdf6421bcd90dd848ff3d8c233e8577128e5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0557e866acd2f1dc53598ebf8afa604f96405abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\9ce1c2a72d93b9542014bc1daaa9f1c3d62d1e34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0aa9d20c40e9d8ba42fcad1be5bdab9f7696fba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WIN\.android\build-cache\9a1607fa4e5fbac093bed94e006778c743ad92e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c30377459cb5bc16e087975d9805962dd9f654d\classes.dex" />
+    </item>
+
+</items>
